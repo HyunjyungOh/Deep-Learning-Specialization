@@ -43,6 +43,7 @@
     * <> [Convolution Model Application](W1A2/Convolution_model_Application.ipynb)
 * Week 2: [Deep Convolutional Models: Case Studies](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W2.pdf)
     * <> [Residual Networks](C4_Coding_Assignments/W2A1/Residual_Networks.ipynb)
+    * <> [Transfer Learning wit MobileNet](C4_Coding_Assignments/W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
 * Week 3: [Object Detection (Detection Algorithms)](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W3.pdf)
 * Week 4: [Special Application](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W4.pdf)
   *  Face Recognition
