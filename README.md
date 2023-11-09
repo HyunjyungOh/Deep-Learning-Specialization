@@ -51,6 +51,7 @@
   *  Face Recognition
   *  <> [Face Recognition](C4_Coding_Assignments/W4A1/Face_Recognition.ipynb)
   *  Neural Style Transfer
+  *  <> [Art Generation with Neural Style Transfer](C4_Coding_Assignments/W4A2/Art_Generation_with_Neural_Style_Transfer.ipynb)
     
 ## 5. Sequence Models
 * Week 1: [Recurrent Neural Networks](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W1.pdf)
