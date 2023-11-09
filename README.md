@@ -4,7 +4,8 @@
 ## 1. Neural Networks Deep Learning
 * Week 1: Introduction to Deep Learning
 * Week 2: Logistic Regression as a Neural Networks
-* Week 3: Shallow Neural Network
+* Week 3: Shallow Neural Network [C1_W3.pdf](https://github.com/HyunjyungOh/Deep-Learning-Specialization/files/13312139/C1_W3.pdf)
+  Code Assignment: Planar data classification with one hidden layer 
 * Week 4: Deep Neural Network
 
 ## 2. Improving Deep Neural Networks
