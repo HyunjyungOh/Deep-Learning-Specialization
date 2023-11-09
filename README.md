@@ -12,7 +12,7 @@
      * <> [Planar Data Classification with One Hidden Layer](C1_Coding_Assignments/W3A1/Planar_data_classification_with_one_hidden_layer.ipynb)
 * Week 4: [Deep Neural Network](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W4.pdf)
      * <> [Building Your Deep Neural Network Step by Step](C1_Coding_Assignments/W4A1/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-     * <> [Deep Neural Network](C1_Coding_Assignments/W4A2/Deep Neural Network-Application.ipynb)
+     * <> [Deep Neural Network](C1_Coding_Assignments/W4A2/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ## 2. Improving Deep Neural Networks
 * Week 1: [Practical Aspects of Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C2_W1.pdf)
