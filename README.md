@@ -1,5 +1,7 @@
-# Deep Learning Specialization (Coursera)
+# Deep Learning Specialization (Coursera) 
 * Instructor: Dr. Andrew Ng
+* All credits go to Coursera (deeplearning.ai)
+* Year provided: Sep. 2023 ~ Nov. 2023
 
 ## 1. Neural Networks Deep Learning 
 * Week 1: Introduction to Deep Learning
