@@ -1,7 +1,7 @@
 # Deep Learning Specialization (Coursera) 
 * Instructor: Dr. [Andrew Ng](http://www.andrewng.org/)
 * All credits go to Coursera (deeplearning.ai)
-* Year provided: Sep. 2023 ~ Nov. 2023
+* Course Taken: Sep. 2023 ~ Nov. 2023
 
 ## 1. Neural Networks Deep Learning 
 * Week 1: [Introduction to Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W1.pdf)
