@@ -1,13 +1,18 @@
 # Deep Learning Specialization (Coursera) 
 * Instructor: Dr. [Andrew Ng](http://www.andrewng.org/)
 * All credits go to Coursera (deeplearning.ai)
-* Course Taken: Sep. 2023 ~ Nov. 2023
+* Course version Sep. 2023 ~ Nov. 2023
 
 ## 1. Neural Networks Deep Learning 
 * Week 1: [Introduction to Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W1.pdf)
 * Week 2: [Logistic Regression as a Neural Networks](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W2.pdf)
+     * <> [Python Basics with Numpy](C1_Coding_Assignments/W2A1/Python_Basics_with_Numpy.ipynb)
+     * <> [Logistic Regression with a Neural Network Mindset](C1_Coding_Assignments/W2A2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 * Week 3: [Shallow Neural Network](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W3.pdf)
+     * <> [Planar Data Classification with One Hidden Layer](C1_Coding_Assignments/W3A1/Planar_data_classification_with_one_hidden_layer.ipynb)
 * Week 4: [Deep Neural Network](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C1_W4.pdf)
+     * <> [Building Your Deep Neural Network Step by Step](C1_Coding_Assignments/W4A1/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+     * <> [Deep Neural Network](C1_Coding_Assignments/W4A2/Deep Neural Network-Application.ipynb)
 
 ## 2. Improving Deep Neural Networks
 * Week 1: [Practical Aspects of Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C2_W1.pdf)
