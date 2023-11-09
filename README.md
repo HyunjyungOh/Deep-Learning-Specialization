@@ -17,11 +17,15 @@
 ## 2. Improving Deep Neural Networks
 * Week 1: [Practical Aspects of Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C2_W1.pdf)
   * Setting up ML application
+  * <> [Initialization](C2_Coding_Assignments/W1A1/Initialization.ipynb)
   * Regularizing Neural Networks
+  * <> [Regularization](C2_Coding_Assignments/W1A2/Regularization.ipynb)
   * Setting up an Optimization problem
+  * <> [Gradient Checking](C2_Coding_Assignments/W1A3/Gradient_Checking.ipynb)
 * Week 2: [Optimization Algorithms](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C2_W2.pdf)
+    * <> [Optimization Methods](C2_Coding_Assignments/W2A1/Optimization_methods.ipynb)
 * Week 3: [Hyperparameter Tuning, Batch Normalization and Programming Frameworks](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C2_W3.pdf)
-  
+    * <> [Tensorflow Introduction](C2_Coding_Assignments/W3A1/Tensorflow_introduction.ipynb)
 ## 3. Structuring Machine Learning Projects
 * Week 1: [ML Strategy](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C3_W1.pdf)
   * Introduction to ML strategy
