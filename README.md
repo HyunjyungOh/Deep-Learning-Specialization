@@ -4,7 +4,7 @@
 * Year provided: Sep. 2023 ~ Nov. 2023
 
 ## 1. Neural Networks Deep Learning 
-* Week 1: Introduction to Deep Learning
+* Week 1: [Introduction to Deep Learning](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/d49d3c9253307dfc3a70b6833222a9a6c33ca52a/C1_W1.pdf)
 * Week 2: Logistic Regression as a Neural Networks
 * Week 3: Shallow Neural Network
 * Week 4: Deep Neural Network
