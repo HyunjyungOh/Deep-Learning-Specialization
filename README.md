@@ -39,7 +39,8 @@
     
 ## 4. Convolutional Neural Network
 * Week 1: [Foundations of Convolutional Neural Networks](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W1.pdf)
-    * <> [Convolution Model Step by Step](W1A1/Convolution_model_Step_by_Step_v1.ipynb) 
+    * <> [Convolution Model Step by Step](W1A1/Convolution_model_Step_by_Step_v1.ipynb)
+    * <> [Convolution Model Application](W1A2/Convolution_model_Application.ipynb)
 * Week 2: [Deep Convolutional Models: Case Studies](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W2.pdf)
 * Week 3: [Object Detection (Detection Algorithms)](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W3.pdf)
 * Week 4: [Special Application](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C4_W4.pdf)
