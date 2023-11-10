@@ -53,11 +53,21 @@
     
 ## 5. Sequence Models
 * Week 1: [Recurrent Neural Networks](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W1.pdf)
+    * <> [Building a Recurrent Neural Network Step by Step](C5_Coding_Assignments/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+    * <> [Dinosaurus Island Character Level Language_Model](C5_Coding_Assignments/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb)
+    * <> [Improvise a Jazz Solo with an LSTM Network v4](C5_Coding_Assignments/W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 * Week 2: [Natural Language Processing and Word Embeddings](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W2.pdf)
   * Introduction to Word Embeddings
   * Learning Word Embeddings: Word2vec and GloVe
   * Applications Using Word Embeddings
+  * <> [Operations on Word Vectors v2](C5_Coding_Assignments/W2A1/Operations_on_word_vectors_v2a.ipynb)
+  * <> [Emoji](C5_Coding_Assignments/W2A2/Emoji_v3a.ipynb)
 * Week 3: [Sequence Models and Attention Mechanism](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W3.pdf)
   * Various Sequence To Sequence Architectures
   * Speech Recognition - Audio Data
+  * <> [Neural Machine Translation with Attention v4](C5_Coding_Assignments/W3A1/Neural_machine_translation_with_attention_v4a.ipynb)
+  * <> Trigger Word Dection v2
 * Week 4: [Transformer Network](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W4.pdf)
+    * <> [Transformer Subclass](C5_Coding_Assignments/W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+    * <> [Transformer Application: Named Entity Recognition](C5_Coding_Assignments/W4A2_UGL/Transformer_application_Named_Entity_Recognition.ipynb)
+    * <> [QA Data Set](C5_Coding_Assignments/W4A3_UGL/QA_dataset.ipynb) 
