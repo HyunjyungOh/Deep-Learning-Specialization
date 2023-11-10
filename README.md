@@ -66,7 +66,7 @@
   * Various Sequence To Sequence Architectures
   * Speech Recognition - Audio Data
   * <> [Neural Machine Translation with Attention v4](C5_Coding_Assignments/W3A1/Neural_machine_translation_with_attention_v4a.ipynb)
-  * <> Trigger Word Dection v2
+  * <> [Trigger Word Dection v2](C5_Coding_Assignments/W3A2/images/Trigger_word_detection_v2a.ipynb)
 * Week 4: [Transformer Network](https://github.com/HyunjyungOh/Deep-Learning-Specialization/blob/24c895ebf978c820380d450e450213f542b1a46d/Lecture%20Notes/C5_W4.pdf)
     * <> [Transformer Subclass](C5_Coding_Assignments/W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
     * <> [Transformer Application: Named Entity Recognition](C5_Coding_Assignments/W4A2_UGL/Transformer_application_Named_Entity_Recognition.ipynb)
